@@ -1,0 +1,6 @@
+Jest to przyk³ad szyfru polialfabetycznego podstawieniowego. Co oznaczaj¹ te pojêcia?
+
+Nastêpnie zaszyfruj tekst jawny: ALGORYTMY I STRUKTURY DANYCH
+z wykorzystaniem s³owa kluczowego: KOPER
+Zak³adamy, ¿e operujemy tylko na du¿ych literach alfabetu.
+Zaimplementuj metodê odszyfrowania tak otrzymanego szyfrogramu.
